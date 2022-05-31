@@ -29,8 +29,8 @@ function Home() {
 
             <section class="showcase">
 
-            <video id="background-video" loop muted autoPlay>
-            <source src={vx} type="video/mp4" /></video>
+            {/* <video id="background-video" loop muted autoPlay>
+            <source src={vx} type="video/mp4" /></video> */}
             <div class="overlay"></div>
             <div class="text">
                 <h2>Tyler O'Hare: </h2> 
