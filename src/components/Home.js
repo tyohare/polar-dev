@@ -66,7 +66,6 @@ function Home() {
                                 ringOffsetColor: 'black.300'
                                 }}
                         mt={4} colorScheme="white"> 
-                        <a className='github' href='https://www.github.com/tyohare'>  Github </a>
 
                     </Button>
                 </Box>

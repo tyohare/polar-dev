@@ -15,6 +15,7 @@ const NavBar = () => {
             <li><Link to="/">Home</Link></li>
             <li><Link to="/projects">Projects</Link></li>
             <li><Link to="/contact">Contact</Link></li>
+            <li><a className='github' href='https://www.github.com/tyohare'>Github</a></li>
           </ul>
           </div>
 

@@ -25,7 +25,6 @@ function Contact() {
 
 
         <ul class="social">
-        <a className='github' href='https://www.github.com/tyohare'>  Github </a>
 
         </ul>
     
